@@ -1,3 +1,6 @@
+/*
+   @https://github.com/jakemadness/random-weighted-value
+*/
 var randomInt = function(min, max) {
    return Math.floor(Math.random() * (max - min + 1)) + min;
 };
