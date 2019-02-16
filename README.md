@@ -1,5 +1,5 @@
 # Random Weighted Value
-Select a random value from a weighted array
+Select a random value from a weighted array in JavaScript.
 
 ## Example
 ```JS
