@@ -33,4 +33,4 @@ var weightList = [
 alert('You got a ' + randomWeightedValue(weightList) + '!');
 ```
 
-JSFiddle Example: https://jsfiddle.net/ijake/vasynhkp/
+JSFiddle Example: https://jsfiddle.net/iturtle/vasynhkp/
